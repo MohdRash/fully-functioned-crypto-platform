@@ -1,0 +1,28 @@
+{
+  "name": "crypto-platform",
+  "version": "1.0.0",
+  "description": "A cryptocurrency buy and sell platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm run dev --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "bcryptjs": "^3.0.2",
+    "config": "^4.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.3",
+    "react-router-dom": "^7.8.2"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.2"
+  }
+}

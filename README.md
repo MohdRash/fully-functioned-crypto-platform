@@ -1,6 +1,6 @@
 # Crypto Application
 
-This is a full-stack cryptocurrency application that allows users to track crypto prices, manage transactions, connect wallets, and view their profiles.
+This is a basic full-stack cryptocurrency application that allows users to track crypto prices, manage transactions, connect wallets, and view their profiles.
 
 ## Features
 

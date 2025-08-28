@@ -85,14 +85,10 @@ The application should now be running at `http://localhost:5173` (or similar).
 
 Include screenshots of key application pages here. For example:
 
-### Login Page
-![Login Page](client/src/assets/login-page.svg)
+### Dashboard
+![Dashboard Page](<img width="2160" height="3883" alt="chrome-capture-2025-8-28" src="https://github.com/user-attachments/assets/b05c094b-aa3c-4280-ba60-b9ebfc2e1290" />
+)
 
-### Dashboard/Prices Page
-![Dashboard Page](client/src/assets/dashboard-page.svg)
-
-### Profile Page
-![Profile Page](client/src/assets/profile-page.svg)
 
 *(Note: Replace `client/src/assets/*.png` with actual paths to your screenshots. You may need to create an `assets` folder in the client directory and place your images there.)*
 
